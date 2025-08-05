@@ -5,8 +5,8 @@ Welcome to the Faith Blog project! This repository contains the source code and 
 ## Features
 
 - Create, edit, and delete blog posts
-- User authentication
-- Responsive design
+- ~~User authentication~~
+- ~~Responsive design~~
 - Commenting system
 
 ## Getting Started
